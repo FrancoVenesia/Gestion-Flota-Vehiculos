@@ -1,0 +1,8 @@
+# Ignorar el archivo original específicamente
+data/dataset_flota_original.xlsx
+
+# Ignorar archivos de sistema y temporales de R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
